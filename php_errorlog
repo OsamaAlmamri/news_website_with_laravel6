@@ -1,0 +1,1 @@
+[30-Oct-2019 06:44:29 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/hdhdsa.com/public_html./vendor/autoload.php' (include_path='.:/usr/local/php71/pear') in /home/customer/www/hdhdsa.com/public_html/index.php on line 24
